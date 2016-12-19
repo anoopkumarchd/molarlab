@@ -4,8 +4,8 @@ MolarLab.
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
+* Quick summary - MolarLab website code.
+* Version -- 1.0.0
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
 ### How do I get set up? ###
