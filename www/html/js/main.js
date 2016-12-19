@@ -59,7 +59,7 @@
         var retina = window.devicePixelRatio > 1 ? true : false;
 
         if(retina) {
-            $('.logo img').attr({src:'./img/logo@2x.png',width:'166',height:'45'});
+            $('.logo img').attr({src:'./img/logo.jpg',width:'166',height:'45'});
         }
     };
 
