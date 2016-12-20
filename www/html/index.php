@@ -64,7 +64,7 @@
                      </div>
                      <hr>
                      <ul class="list-unstyled text-center" id="box-content">
-                        <li>Print Rx Forms</li>
+                        <li>Print Rx Forms this is test</li>
                         <li>Click, Print & Sign</li>
                         <li>&nbsp;</li>
                         <li><a href="./printable-rx-forms.php">Get Forms</a></li>
