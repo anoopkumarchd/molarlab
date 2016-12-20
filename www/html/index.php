@@ -59,12 +59,13 @@
 
                 <!-- box1 -->
                 <div class="col-md-3">
+				<div class="banner-bottom-section">
                      <div class="icons image text-center">
                         <img src="i/i1.jpg" width="150" />
                      </div>
                      <hr>
                      <ul class="list-unstyled text-center" id="box-content">
-                        <li>Print Rx Forms this is test</li>
+                        <li>Print Rx Forms</li>
                         <li>Click, Print & Sign</li>
                         <li>&nbsp;</li>
                         <li><a href="./printable-rx-forms.php">Get Forms</a></li>
@@ -76,10 +77,11 @@
 
                      </ul>
 
-                </div>
+                </div></div>
 
                  <!-- box2 -->
                 <div class="col-md-3">
+				<div class="banner-bottom-section">
                      <div class="icons image text-center">
                         <img src="i/i2.jpg" width="150" />
                      </div>
@@ -90,10 +92,11 @@
                         <li><a href="./pack-and-send-a-case.php">Fedex Shipping label</a></li>
                      </ul>
 
-                </div>
+                </div></div>
 
                 <!-- box3 -->
                 <div class="col-md-3">
+				<div class="banner-bottom-section">
                      <div class="icons image text-center">
                         <img src="i/i3.jpg" width="150" />
                      </div>
@@ -103,11 +106,12 @@
                         <li>Fill Information to receive Supplies</li>
                         <li><a href="./request-supplies.php">Get your Shipping supplies</a></li>
                      </ul>
-
+ </div>
                 </div>
 
                 <!-- box4 -->
                 <div class="col-md-3">
+				<div class="banner-bottom-section">
                      <div class="icons image text-center">
                         <img src="i/i4.jpg" width="150" />
                      </div>
@@ -126,7 +130,7 @@
 
 
 
-
+ </div>
 
                 </div>
 
