@@ -81,7 +81,8 @@
 }
 
 .roll-section.testimonials {
-    background: url(../img/bg-section-4.jpg) no-repeat center center;
+    background: url(../img/testimonials/testimonials-bg.jpg) no-repeat center center;
+	background-size:cover;
 }
 
 .roll-section.facts {
@@ -1027,15 +1028,16 @@
 }
 
 .roll-testimonials .whisper {
-    border: 1px solid #e1e1e1;
-    background-color: #fff;
-    color: #7e8186;
-    font-size: 14px;
-    line-height: 24px;
-    font-style: italic;
-    padding: 25px 30px 23px;
-    margin: 0;
-    position: relative;
+  background-color: #fff;
+  border: 1px solid #e1e1e1;
+  color: #000;
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 500;
+  line-height: 24px;
+  margin: 0;
+  padding: 25px 30px 23px;
+  position: relative;
 }
 
 .roll-testimonials .name {

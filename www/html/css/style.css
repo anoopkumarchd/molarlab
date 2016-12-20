@@ -1406,7 +1406,7 @@ input[type="submit"]:focus {
 .main-slider .roll-banner-h3 {
 	font-family: "Roboto Slab", sans-serif;
 	font-weight: 300;
-	color: #0facee;
+	color: #337ab7;
 }
 
 .main-slider .roll-banner-h1 { font-size: 50px; }
@@ -2958,9 +2958,10 @@ input[type="submit"]:focus {
     background-color: transparent;
 }
 .view-btn:hover {
-    background-color: #000;
-    border: 1px solid #000;
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+  background-color: #fff;
+  border: 1px solid #fff;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  color: #05b6df;
 }
 .widget_doctor_table {
     border-radius: 6px;
@@ -2969,4 +2970,49 @@ input[type="submit"]:focus {
 	border-top: thick double #006ab4;
     border-bottom: thick double #006ab4;
 
+}
+
+/* New Css */
+
+.banner-bottom-section {
+  border: 1px solid #eeeeee;
+  padding: 10px;
+}
+.banner-bottom-section #box-content {
+  margin: 0px;
+}
+.banner-bottom-section #box-content > li {
+  font-size: 17px;
+  font-weight: 400;
+}
+.banner-bottom-section #box-content a {
+  font-size: 16px;
+  text-decoration: none;
+}
+.widget_doctor_table {
+  border-bottom: 5px solid #2f2f2f;
+}
+.roll-titlebox.text-center strong {
+  color: #535353;
+  font-family: roboto;
+  font-size: 40px;
+}
+.main-slider .roll-btn.color2:hover {
+  background-color: #286090;
+}
+.footer-widgets .widget.widget_news li {
+  border-bottom: 1px dashed #7e8186;
+  font-weight: 500;
+  padding: 0 0 13px;
+}
+.roll-testimonials .name {
+  color: #006ab4;
+  font-size: 16px;
+  font-weight: 600;
+}
+.widget_doctor_table .widget-title > strong {
+  font-family: roboto;
+  font-size: 22px;
+  text-shadow: 2px 1px #000;
+  text-transform: uppercase;
 }
