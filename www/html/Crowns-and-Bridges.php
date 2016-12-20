@@ -99,7 +99,7 @@
              <!--  services  sections starts  -->
         <br>
 
-        <div class="container" class="services categeres ">
+        <div class="container services categeres ">
             <div class="row">
                 <div class="roll-titlebox text-center" style="margin-bottom: 25px;">
                     <h1><span class="heading-underline"><strong>Products</strong></span> </h1><br>

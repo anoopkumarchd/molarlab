@@ -274,7 +274,7 @@ h3 {
 }
 
 h4 {
-	font-size: 18px;
+	font-size: 17px;
 	line-height: 26px;
 }
 
@@ -492,7 +492,7 @@ button:hover,
 input[type="button"]:hover,
 input[type="reset"]:hover,
 input[type="submit"]:hover {
-	background-color: #2d2d2d;
+	background-color:#006ab4;
 	outline: 0;
 }
 
@@ -632,7 +632,7 @@ input[type="submit"]:focus {
 	content: "\f017";
 	font-family: "FontAwesome";
 	font-size: 14px;
-	color: #0facee;	
+	color:#0facee;	
 	position: absolute;
 	left: 0;
 	top: 0;
@@ -667,7 +667,7 @@ input[type="submit"]:focus {
 	line-height: 60px;
 	position: relative;
 	display: inline-block;
-	padding-right: 35px;
+	padding-right: 12px;
 }
 
 .top .language .lang-trigger a:after {
@@ -1099,15 +1099,15 @@ input[type="submit"]:focus {
 
 #main-nav > ul > li {
 	display: inline-block;
-	padding: 0 13px;
+	padding:0 28px;
 }
 
 #main-nav > ul > li > a {
 	position: relative;
     color: #7e8186;
 	display: inline-block;
-    font-family: "Roboto Slab", sans-serif;
-    font-size: 16px;
+   font-family: roboto;
+    font-size: 17px;
 	line-height: 100px;
 }
 
@@ -1406,7 +1406,7 @@ input[type="submit"]:focus {
 .main-slider .roll-banner-h3 {
 	font-family: "Roboto Slab", sans-serif;
 	font-weight: 300;
-	color: #337ab7;
+	color: #0facee;
 }
 
 .main-slider .roll-banner-h1 { font-size: 50px; }
@@ -1523,7 +1523,7 @@ input[type="submit"]:focus {
 
 
 .page-title.style2 {
-	padding: 82px 0;
+	padding: 43px 0 52px;
 	text-align: left;
 }
 
@@ -2752,7 +2752,7 @@ input[type="submit"]:focus {
 -------------------------------------------------------------- */
 .footer {
 	background-color: #f9f9f9;
-	padding: 90px 0 122px;
+	padding:90px 0 38px;
 }
 
 .footer.style2 {
@@ -2908,13 +2908,13 @@ input[type="submit"]:focus {
 }
 
 .bottom.has-socials {
-	padding: 76px 0 15px 0px;	
+	padding:34px 0 14px;	
 }
 
 .bottom .socials {
 	position: absolute;
 	left: 0;
-	top: -106px;
+	top: -68px;
 	width: 100%;
 	text-align: center;
 	margin: 0;
@@ -2950,7 +2950,10 @@ input[type="submit"]:focus {
 
 /* Add new css */
 .widget_doctor_table p {
-    font-size: 17px;
+  font-size: 14px;
+}
+.services-div .widget_doctor_table p {
+min-height: 220px;
 }
 .view-btn {
     border: 1px solid #fff;
@@ -2967,8 +2970,8 @@ input[type="submit"]:focus {
     border-radius: 6px;
 }
 .heading-underline {
-	border-top: thick double #006ab4;
-    border-bottom: thick double #006ab4;
+background:url(../img/heading-bg.jpg) no-repeat;
+background-position:center bottom;  padding: 0 0 10px;
 
 }
 
@@ -3006,7 +3009,7 @@ input[type="submit"]:focus {
   padding: 0 0 13px;
 }
 .roll-testimonials .name {
-  color: #006ab4;
+  color:#04b6e0;
   font-size: 16px;
   font-weight: 600;
 }
@@ -3015,4 +3018,27 @@ input[type="submit"]:focus {
   font-size: 22px;
   text-shadow: 2px 1px #000;
   text-transform: uppercase;
+}
+.menu > li:last-child {
+  padding-right: 12px !important;
+}
+h1.banner-heading {
+  color: #337ab7;
+  font-family: roboto;
+  font-size: 43px !important;
+  font-weight: bold !important;
+  text-shadow: 1px 1px #000;
+}
+#box-content > li:last-child {
+  padding: 20px 0 15px;
+}
+strong.services-heading{background:url(../img/heading-bg.jpg) no-repeat;
+background-position:center bottom;  padding: 0 0 10px;
+}
+.roll-section.testimonials {
+  margin-top: 25px;
+}
+
+.services.categeres p.text-center {
+  min-height: 172px;
 }

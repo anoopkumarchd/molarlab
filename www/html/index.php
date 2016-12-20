@@ -146,17 +146,17 @@
         </section>
 
         <!--  services 4 sections -->
-        <div class="container">
+        <div class="container services-div">
             <div class="row">
                 <div class="roll-titlebox text-center" style="margin-bottom: 25px;">
-                    <h2><strong>Services & Products</strong> </h2><br>
+                    <h2><strong class="services-heading">Services & Products</strong> </h2><br>
                 </div><!-- /.roll-titlebox -->
 
                 <div class="col-md-3">
                       <aside class="widget widget_doctor_table">
                             <h2 class="widget-title"><strong>Crowns & Bridges</strong></h2>
                             <p class="text-center">Our dental crowns and bridges are made using the finest materials available, by a team of highly experienced technicians with years of experience in this field. These include a variety of PFM's, full cast, and all ceramic appliances.</p>
-                            <br/><br/><br/>
+                           
                             <a href="Crowns-and-Bridges.php"  class="view-btn btn btn-primary btn-lg">View More</b>
                             </a>
                        </aside><!-- /.widget_doctor_table -->
@@ -173,7 +173,7 @@
                 <div class="col-md-3">
                       <aside class="widget widget_doctor_table">
                             <h2 class="widget-title"><strong>Orthodontics</strong></h2>
-                            <p class="text-center">We're a full service orthodontic laboratory dedicated to designing and manufacturing high quality orthodontic appliances, splints, and retainers for adults and children. Our orthodontic technicians are highly qualified and experienced in their field.</p><br/><br/>
+                            <p class="text-center">We're a full service orthodontic laboratory dedicated to designing and manufacturing high quality orthodontic appliances, splints, and retainers for adults and children. Our orthodontic technicians are highly qualified and experienced in their field.</p>
                             <a href="Orthodontics.php" class="view-btn btn btn-primary btn-lg">View More</a>
                         </aside><!-- /.widget_doctor_table -->
                 </div>
@@ -181,7 +181,7 @@
                 <div class="col-md-3">
                       <aside class="widget widget_doctor_table">
                             <h2 class="widget-title"><strong>Implants</strong></h2>
-                            <p class="text-center">In our laboratory, we use a wide range of materials to create your choice of restoration with the utmost accuracy. Our highly skilled technicians will fabricate patient-centric abutments and customize any restoration so that it is strong, durable, and incredibly lifelike.</p><br/><br/>
+                            <p class="text-center">In our laboratory, we use a wide range of materials to create your choice of restoration with the utmost accuracy. Our highly skilled technicians will fabricate patient-centric abutments and customize any restoration so that it is strong, durable, and incredibly lifelike.</p>
                             <a href="Implants.php" class="view-btn btn btn-primary btn-lg">View More</a>
                         </aside><!-- /.widget_doctor_table -->
                 </div>
@@ -204,7 +204,7 @@
                             <h2><strong>What Client Dentist Say </strong>About Us?</h2>
                             <p>Your Trust, Our Commitment</p>
                         </div>
-                        <div class="roll-spacer h70"></div>
+                        <div class="roll-spacer h60"></div>
                         <div class="roll-testimonials">
                             <div class="owl-carousel">
 

@@ -33,7 +33,7 @@
                         <div class="col-md-12">
                             <div id="logo" class="logo">
                                 <a href="./">
-                                    <img src="img/logo.jpg" alt="logo" />
+                                    <img src="img/logo-site.png" alt="logo" />
                                 </a>
                             </div><!-- /#logo -->
                             <div class="btn-menu"><span></span></div><!-- //mobile menu button -->

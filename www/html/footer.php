@@ -6,7 +6,7 @@
                     <div class="row">
                         <div class="col-md-3">
                             <aside class="widget widget_text">
-                                <img src="img/logo.jpg" alt="image" width="125">
+                                <img src="img/logo-site.png" alt="image" width="125">
                                 <div class="roll-spacer h15"></div>
                                 <div class="text-justify">Molar Lab a full-service dental lab specializing in crowns, bridges,  veneers, partial & complete dentures, implants and orthodontics. Our Mission is to provide you quality dental products at competitive pricing backed by exceptional customer service and fast turnaround time.
                                 </div>
@@ -19,7 +19,7 @@
                                 <a href="#" class="roll-button size-1"><span>Read more</span></a>
                             </aside>
                         </div><!-- /.col-md-3 -->
-                        <div class="col-md-3 text-center">
+                        <div class="col-md-3">
                             <aside class="widget widget_news">
                                 <h2 class="widget-title"><strong>Site</strong> Map</h2>
                                 <ul>

@@ -25,7 +25,7 @@
 -------------------------------------------------------------- */
 .roll-section {
     position: relative;
-    padding: 94px 0;
+    padding:62px 0 20px;
     background-color: #fff;
 }
 
@@ -194,8 +194,8 @@
 }
 
 .roll-button.size-1 {
-    padding: 6px 40px 5px;
-    font-size: 10px;
+  font-size: 15px;
+  padding:6px 18px 7px;
 }
 
 /* Textbox
@@ -970,13 +970,13 @@
 /* Phone Form
 -------------------------------------------------------------- */
 .roll-phone-form .input-wrap.phone {
-    width: 74.358%;
-    margin-right: 8.547%;
-    float: left;
+  float: left;
+  margin-right: 0;
+  width: 79.358%;
 }
 
 .roll-phone-form .send-wrap {
-    width: 17.094%;
+    width:18.7%;
     float: right;
 }
 
@@ -990,26 +990,28 @@
 }
 
 .roll-phone-form .input-wrap.phone input {
-    font-size: 30px;
-    font-weight: 300;
-    color: #fff;
-    font-style: italic;
-    background-color: transparent;
-    border-color: transparent;
-    border-bottom: 1px solid #fff;
-    line-height: 50px;
-    padding: 0 0 15px;
-    margin-bottom: 0;
+  background-color: transparent;
+  border: 1px solid;
+  color: #fff;
+  font-size: 21px;
+  font-style: italic;
+  font-weight: 300;
+  line-height: 50px;
+  margin-bottom: 0;
+  padding: 5px 12px;
 }
-
 .roll-phone-form .send-wrap {
-    margin-top: 15px;
+    margin-top: 0px;
 }
 
 .roll-phone-form .send-wrap input {
-    width: 100%;
-    background-color: transparent;
-    border: 1px solid #fff;
+  background-color: transparent;
+  border: 1px solid #fff;
+  font-family: roboto;
+  font-size: 17px;
+  font-weight: 700;
+  padding: 21px 35px;
+  width: 100%;
 }
 
 .roll-phone-form .send-wrap input:hover {
